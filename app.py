@@ -1,6 +1,7 @@
 
 ## GIT
 # git remote add origin git@github.com:Jullemand/heroku_flask_udemy.git
+# git remote add origin https://github.com/Jullemand/heroku_flask_test.git
 # git push -u origin master
 
 from flask import Flask
